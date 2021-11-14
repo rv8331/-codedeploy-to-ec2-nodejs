@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /home/linux
+cd /home/ubuntu
 npm -f install
